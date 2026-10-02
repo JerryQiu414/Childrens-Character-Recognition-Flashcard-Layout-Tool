@@ -1,0 +1,20 @@
+{
+  "outdir": "D:/Users/QZE/Desktop/卡片打印/每周练习的卡片",
+  "auto_name": false,
+  "custom_name": "卡片【11.30——12.6】",
+  "card_size": "3寸",
+  "orientation": "竖版",
+  "custom_w": "5.5",
+  "custom_h": "8.4",
+  "margin_preset": "窄（1.27cm）",
+  "custom_margin": "1.27",
+  "align_preset": "满页基准（推荐）",
+  "auto_layout": true,
+  "rows_per_page": 3,
+  "spacer_enabled": false,
+  "with_picture": true,
+  "image_folder": "D:/Users/QZE/Desktop/卡片打印/图片",
+  "image_fit": "contain",
+  "keep_tail_placeholder": false,
+  "sample_text": "咖啡机\t银行卡\t卡丁车\t打瞌睡\t科学家\t巧克力\t牛仔裤\t开心果\t烤面包\t戴口罩\t吹口哨\t钥匙扣\t看电视\t看电影\t快递员\n洒水车\t扫地机\t彩虹伞\t酸辣粉\t酸菜鱼\t三个草莓\t三个气球"
+}
